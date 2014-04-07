@@ -1,4 +1,4 @@
-# It builds an image with ubuntu 13.10, nodejs, mongo, forever, mocha and supervisord
+# It builds an image with ubuntu 13.10 and nodejs
 
 # use the ubuntu base image provided by dotCloud
 FROM ubuntu:13.10
